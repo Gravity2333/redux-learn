@@ -1,0 +1,1 @@
+export const SET_BANNER_INFO = 'set_banner_info'
